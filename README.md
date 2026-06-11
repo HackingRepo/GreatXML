@@ -7,3 +7,6 @@ Steps to reproduce,
 2. If defender offline scan was never initiated then you have to either login and initiate it yourself or figure out a way to boot into WinRE in offline scan state (I believe it should be very possible to do so without logging in) and follow steps above
 
 If everything is done properly, this should be the result
+
+![BottomText](screenshot1.png)
+![TopText](screenshot2.png)
