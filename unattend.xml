@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
     <Exploit>
-		 <stage1>Do'nt be evil, i will help you\nJust be calm and your health first, if you do'nt like Microsoft anymore, move to other softwares</stage1>
+		 <stage1>Do'nt be evil, i will help you
+			 Just be calm and your health first, if you do'nt like Microsoft anymore, move to other softwares
+		 </stage1>
          <stage2>There was tons of softwares and vendors that will keep your health and not strict, like Cisco</stage2>
          <BypassWindowsDefenderNeedScan>Do'nt harm users please, while you are frustrated, not only microsoft exist, there was tons of orgs</BypassWindowsDefenderNeedScan>
-</Exploit>
+	</Exploit>
+</catalog>
